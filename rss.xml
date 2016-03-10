@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[toddrhoades]]></title>
         <description><![CDATA[toddrhoades]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toddrhoades/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 01:32:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 01:37:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toddrhoades/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing123]]></title>
+            <description><![CDATA[<article><h1>Testing123</h1><p>Testing 123</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d5503f3e57aab2c6a8cf1c123ab992dd45d49cd.png"></article>]]></description>
+            <link>https://thegrid.ai/toddrhoades/testing123/index.html</link>
+            <guid isPermaLink="false">b25d0d52-e86e-46f8-83ac-710de77276f8</guid>
+            <pubDate>Thu, 10 Mar 2016 01:37:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hey... I'm working on a project and could use your really quick input.</p>]]></description>
-            <link>undefined8d64d09b-54bd-47fa-a168-ee2c19aa4b5e/index.html</link>
+            <link>https://thegrid.ai/toddrhoades/8d64d09b-54bd-47fa-a168-ee2c19aa4b5e/index.html</link>
             <guid isPermaLink="false">8d64d09b-54bd-47fa-a168-ee2c19aa4b5e</guid>
             <pubDate>Thu, 10 Mar 2016 01:32:33 GMT</pubDate>
         </item>
