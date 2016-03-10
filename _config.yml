@@ -1,0 +1,28 @@
+name: toddrhoades
+favicon: null
+layout_spectrum: 0.5344558255746961
+typography_spectrum: 0.31533382972702384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.04394234507344663
+  lightness: 0.8218066825065762
+  saturation: 0.6284699263051152
+  rhythmicContrast: 0.1471451569814235
+purpose: []
